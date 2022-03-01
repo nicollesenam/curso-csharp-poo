@@ -1,0 +1,15 @@
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\obj\Debug\net6.0\refint\ExemploPOO.dll
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
+D:\Nicolle\Documents\curso dio chsarp e dotenet\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
